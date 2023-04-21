@@ -71,3 +71,4 @@ php artisan test --env=test
 ```
 
 ### Api Documentation
+https://documenter.getpostman.com/view/9649360/2s93Y3vgeJ
